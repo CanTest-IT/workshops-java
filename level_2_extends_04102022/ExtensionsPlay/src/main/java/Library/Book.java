@@ -21,4 +21,11 @@ public class Book extends Item{
         return "Wolna";
     }
 
+
+    public void cokolwiek(){
+        System.out.println("Cokolwiek");
+    }
+
+
+
 }
