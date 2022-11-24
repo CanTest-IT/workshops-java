@@ -1,0 +1,7 @@
+input,expected
+a,A
+A,A
+123,123
+!@#$,!@#$
+AaAbBb,AAABBB
+\n,\N
